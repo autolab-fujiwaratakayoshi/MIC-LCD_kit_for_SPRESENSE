@@ -13,12 +13,14 @@
 ![photo](sub.jpg)
 
 ## 使い方
-### 1.SPRESENSEとの接続
+### 1.SPRESENSEをご用意ください
 
 SPRESENSE本体と拡張基板をご用意ください
 
 *本キットには含まれておりません
 ![ohiti1](set.jpg)
+
+### 2.LCDを接続
 
 
 ![join](torituke.jpg)
