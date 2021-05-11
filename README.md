@@ -23,7 +23,7 @@ SPRESENSE本体と拡張基板をご用意ください
 ### 2.LCDを接続
 
 
-![join](torituke.jpg)
+![join](set2.jpg)
 
 ### 2.MICを接続
 アナログマイクですので、音声の録音、スルーに使用する通常はMIC_AとMIC_Bの２箇所に接続して使用してください
