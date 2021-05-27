@@ -26,8 +26,21 @@ SPRESENSE本体と拡張基板をご用意ください
 ![join](set2.jpg)
 
 ### 2.MICを接続
-アナログマイクですので、音声の録音、スルーに使用する通常はMIC_AとMIC_Bの２箇所に接続して使用してください
-*４箇所接続すると録音やスルーが動作しないようです
+
+![photo](photo2.jpg)
+付属しているマイクは、アナログマイクです
+
+音声の録音、スルーに使用する通常はMIC_AとMIC_Bの２箇所に接続して使用してください
+
+*４箇所接続すると録音やスルーが動作しない場合があるようです
+詳細はSPRESENSEの公式ドキュメントをご確認ください
+
+https://developer.sony.com/develop/spresense/docs/hw_docs_ja.html
 
 FFTアナライザなどのアプリケーションの場合は４箇所接続してご使用いただくことも可能です
-![photo](photo2.jpg)
+
+FFTアナライザを自作されている方がいらっしゃったので参考までにご紹介します
+
+*弊社はこちらのプログラムのサポートはできませんので、ご了承ください
+
+https://github.com/TE-YoshinoriOota/Spresense_fftanalyzer_sample
