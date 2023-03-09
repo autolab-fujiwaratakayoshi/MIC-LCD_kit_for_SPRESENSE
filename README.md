@@ -13,6 +13,13 @@
 ## 同梱物
 ![photo](sub.jpg)
 
+## 購入先
+秋月電子通商
+https://akizukidenshi.com/catalog/g/gM-16589/
+
+スイッチサイエンス
+https://www.switch-science.com/products/7155?_pos=33&_sid=ded19b8d6&_ss=r
+
 ## 使い方
 ### 1.SPRESENSEをご用意ください
 
